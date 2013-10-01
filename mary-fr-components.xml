@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marytts-install xmlns="http://mary.dfki.de/installer">
     <voice gender="male" locale="fr" name="enst-dennys-hsmm" type="hsmm" version="4.3.0">
-        <description></description>
+        <description>A male Québécois French hidden semi-Markov model voice, built at Télécom ParisTech (ENST).</description>
         <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
         <package filename="mary-enst-dennys-hsmm-4.3.0.zip"
             md5sum="53b8ae4a0ba31c50ced0e852c63845b3" size="1673318">
